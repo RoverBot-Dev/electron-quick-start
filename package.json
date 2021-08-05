@@ -1,22 +1,20 @@
 {
-  "name": "electron-quick-start",
+  "name": "semekek-app",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Semekek.glitch.me nin uygulaması.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "semekek.glitch.me",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "semekek.glitch.me",
+    "semekek"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "RoverFlushed",
+  "license": "ISC",
   "devDependencies": {
-    "electron": "^13.1.8"
+    "electron": "^13.1.8",
+    "electron-packager": "^15.3.0"
   }
 }

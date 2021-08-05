@@ -1,0 +1,25 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #9fa5a6;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+button {
+  transition-duration: 0.4s;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+button:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/games/gam-16/gam1570.cur), auto !important;} /* End https://www.cursors-4u.com */
